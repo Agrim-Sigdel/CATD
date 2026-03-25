@@ -1,0 +1,11 @@
+yolov8n.pt
+venv
+__pycache__/
+*.log
+*.csv
+*.json      
+.env
+.DS_Store
+*.ipynb_checkpoints
+Videos
+detections
